@@ -1,7 +1,7 @@
 
-//L298 motor driver. Seperate power supply
-// for motor ensures 
-//accuracy and speed.
+//L298 motor driver. 
+// Seperate power supply for motor ensures accuracy and speed.
+//
 int in1=10;
 int in2=9;
 int ena=11;

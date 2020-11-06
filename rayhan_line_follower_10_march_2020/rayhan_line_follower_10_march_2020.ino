@@ -4,10 +4,10 @@ int M_A2 = 3; //motor a = -
 int M_B1 = 4; //motor b = -
 int M_B2 = 5; //motor b = +
 int S_B = 11;  //speed motor b
- 
-int R_S = A0; //sincer R
-int S_S = A1; //sincer S
-int L_S = A2; //sincer L
+ //Syed Zakir Hossain Rayhan
+int R_S = A0; //sensor R
+int S_S = A1; //sensor S
+int L_S = A2; //sensor L
  
 void setup() 
 {
